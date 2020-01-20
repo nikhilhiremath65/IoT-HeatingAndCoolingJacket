@@ -1,0 +1,2 @@
+# IoT-HeatingAndCoolingJacket
+Temperature related inconveniences such as heat stroke, heat rash, frostbite, hypothermia and others, have been a persistent problem for people throughout history. A temperature sensitive jacket which senses the inner jacket temperature and cools or warms the jacket internally in manual or automatic mode. The jacket is connected to a mobile device with Bluetooth which displays current temperature information and lets the user adjust temperature accordingly.
